@@ -40,4 +40,5 @@ def files_4():
         ret += all.count("Ё")
     return ret
 
+
 print(files_4())
