@@ -1,4 +1,3 @@
-
 def graph(f, n = 10, m = 0):
     n,m = min(n,m), max(n , m) + 1
     print(*[f"f({r}) = {f(r)}" for r in range(n, m)])
