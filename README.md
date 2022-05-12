@@ -12,3 +12,4 @@ Time - 5 задач - дедлайн 18.03 - Time.py
 
 Numpy - 11 задач - дедлайн соблюден - numpy_t.py
 
+Jupyter - 2 задачи - дедлайн соблюден - Jupyter.ipynb

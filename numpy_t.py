@@ -1,4 +1,4 @@
-import numpy
+
 import numpy as np
 
 def task_10x10():
